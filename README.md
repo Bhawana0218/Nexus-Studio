@@ -69,7 +69,7 @@ This project focuses on:
 
 Clone the repository:
 
-git clone [https://github.com/your-username/nexus-studio.git](https://github.com/Bhawana0218/Nexus-Studio)
+git clone [https://github.com/Bhawana0218/nexus-studio.git](https://github.com/Bhawana0218/Nexus-Studio)
 
 Install dependencies:
 
